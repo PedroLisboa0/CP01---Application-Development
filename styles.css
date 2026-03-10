@@ -1,4 +1,3 @@
-/* Reset básico */
 body {
     margin: 0;
     padding: 0;
@@ -113,28 +112,6 @@ body {
 
 .tr-alternate {
     background-color: #f9f9f9;
-}
-
-/* Seção de Ídolos */
-.section-idolos {
-    padding: 40px 20px;
-    max-width: 800px;
-    margin: 0 auto;
-}
-
-.subsection-title {
-    margin-top: 30px;
-    font-size: 20px;
-}
-
-.lista-idolos {
-    line-height: 2;
-    font-size: 16px;
-}
-
-.lista-tecnicos {
-    line-height: 2;
-    font-size: 16px;
 }
 
 /* Seção de Curiosidades */
